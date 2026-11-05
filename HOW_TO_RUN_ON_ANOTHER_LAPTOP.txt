@@ -1,0 +1,81 @@
+===============================================================================
+EVENTNEST - FUNCTION HALL BOOKING & MANAGEMENT SYSTEM
+HOW TO WORK ON ANOTHER LAPTOP (EASY STEP-BY-STEP GUIDE)
+===============================================================================
+
+Dear Mohammed Aadil / Team,
+
+Here is how you can easily copy and run this complete website on any other laptop:
+
+-------------------------------------------------------------------------------
+STEP 1: COPY TO YOUR OTHER LAPTOP
+-------------------------------------------------------------------------------
+1. Copy the file "EventNest_Website_Project.zip" to a USB Pen Drive, 
+   or email it to yourself, or upload it to Google Drive.
+2. On your other laptop, paste the zip file anywhere you want (for example, on Desktop).
+3. Right-click "EventNest_Website_Project.zip" and choose "Extract All..." 
+   (or unzip using WinRAR / 7-Zip).
+4. Open the extracted folder: "EventNest_Website_Project".
+
+-------------------------------------------------------------------------------
+STEP 2: MAKE SURE PYTHON IS INSTALLED
+-------------------------------------------------------------------------------
+1. Check if your other laptop has Python installed:
+   - Open Command Prompt and type: python --version
+2. If Python is NOT installed:
+   - Download Python (version 3.10, 3.11, or 3.12) from:
+     https://www.python.org/downloads/
+   - **VERY IMPORTANT DURING INSTALLATION:**
+     Tick the checkbox that says: "Add Python to PATH" (at the bottom of installer).
+
+-------------------------------------------------------------------------------
+STEP 3: START THE WEBSITE (JUST 1-CLICK!)
+-------------------------------------------------------------------------------
+1. In the project folder, just double-click:
+   ===> "RUN_ON_ANOTHER_LAPTOP.bat" <===
+
+2. What it will do automatically for you:
+   - Creates a clean Python virtual environment (venv)
+   - Installs all required packages (Flask, SQLAlchemy, ReportLab, etc.)
+   - Automatically opens your browser at http://127.0.0.1:5000
+   - Starts the website server!
+
+-------------------------------------------------------------------------------
+DEFAULT LOGIN CREDENTIALS
+-------------------------------------------------------------------------------
+A) CUSTOMER LOGIN:
+   - Option 1 (Mobile Quick Login): 9141928544
+   - Option 2 (Email Login): mohammadmubasheer104@gmail.com
+   - Password: password
+
+B) ADMINISTRATOR / MANAGEMENT DESK:
+   - URL: http://127.0.0.1:5000/auth/login
+   - Email: mohammedaadil291@gamil.com
+   - Password: admin123
+   - Admin Controls:
+     * Add new function halls & owners
+     * View monthly booking & revenue reports
+     * Approve or reject PhonePe UTR payment submissions
+     * Direct WhatsApp quotation sender
+
+-------------------------------------------------------------------------------
+PHONEPE PAYMENT GATEWAY DESK DETAILS
+-------------------------------------------------------------------------------
+- Verified Merchant Account: Mohammed Aadil
+- Mobile / PhonePe Number: +91 90352 80291
+- Official Email: mohammedaadil291@gamil.com
+- QR Scanner Location: static/images/admin_phonepe_qr.jpg
+- Payment Structure:
+  1. Confirmation Registration Fee: Rs. 5,000 (Non-Refundable, Locks date)
+  2. 50% Advance: Payable after registration before event setup
+  3. Remaining Balance: Payable after completing the program
+
+-------------------------------------------------------------------------------
+SUPPORT & EXECUTIVE CONTACT
+-------------------------------------------------------------------------------
+- Director: Mohammed Aadil (+91 90352 80291)
+- CEO: Mr. Ahmad Talha Siddiqui
+- Operations Manager: Md Huzaif Masood
+- HR: Md Farhan Anwar
+
+===============================================================================
